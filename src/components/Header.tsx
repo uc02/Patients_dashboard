@@ -24,7 +24,7 @@ const Header = () => {
                 Patients
               </a>
               <a
-                href="/About"
+                href="#"
                 className="text-gray-900 hover:text-blue-600 px-3 py-2 text-sm font-medium transition-colors"
               >
                 About
